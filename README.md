@@ -4,7 +4,9 @@ This is a draft to be presented during RILEM meeting, Anglet, March 2026
 [![DOI](https://zenodo.org/badge/1186265714.svg)](https://doi.org/10.5281/zenodo.19111378)
 
 
-﻿## Concrete Spalling Database
+
+
+## CONCRETE SPALLING LIBRARY
 
 ## Overview
 This repository contains a database of experimental results related to concrete spalling under high temperature conditions. 
