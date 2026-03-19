@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this Repository, please cite it as below."
+authors:
+- family-names: "Mróz"
+  given-names: "Katarzyna"
+  orcid: "https://orcid.org/0000-0001-5306-2035"
+  affiliations: "Cracow University of Technology"
+  role: "Project member"
+- family-names: "Bischof"
+  given-names: "Patrick"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  affiliations: "ETH Zurich"
+  role: "Project member"
+title: "Spalling-db-draft"
+version: 0-0-3
+doi: zenodo.org/records/19112133
+date-released: 2026-03-19
